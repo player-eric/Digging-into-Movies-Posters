@@ -2,8 +2,8 @@
 A group project for 2019 NUS Summer Workshop
 
 Goal:
-Find out potential relation between movie content and its poster with regard to composition, colour, etc.
-Also, explore common design style of themed posters.
+  Find out potential relation between movie content and its poster with regard to composition, colour, etc.
+  Also, explore common design style of themed posters.
 
 Methods:
   Calculating dissimilarity between posters: Histogram+CNN
