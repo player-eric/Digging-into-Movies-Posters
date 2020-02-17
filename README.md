@@ -6,6 +6,9 @@ Goal:
   Also, explore common design style of themed posters.
 
 Methods:
+
   Calculating dissimilarity between posters: Histogram+CNN
+  
   Community Detection: Greedy Modularity, Asyn Lpa, Girvan Newman, K Clique, etc
+  
   Generating new poster given a set of style images: Neural Style Transfer
