@@ -1,7 +1,8 @@
 # Digging-into-Movies-Posters
-A group project for 2019 NUS Summer Workshop
+Project for 2019 NUS Summer Workshop
 
 Goal:
+
   Find out potential relation between movie content and its poster with regard to composition, colour, etc.
   Also, explore common design style of themed posters.
 
@@ -11,4 +12,4 @@ Methods:
   
   Community Detection: Greedy Modularity, Asyn Lpa, Girvan Newman, K Clique, etc
   
-  Generating new poster given a set of style images: Neural Style Transfer
+  Generating new poster given a set of style images: GAN
